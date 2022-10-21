@@ -8,17 +8,17 @@
  1. Instalar o interpretador de Python site oficial [python.org](https://www.python.org/downloads/)
  1. Abra o CMD e instale o pacote do PYGAME:
   ```
-  c:/> pip install pygame
+  c:/> python -m pip install pygame
   ```
  3. Após isso instale o pacote de emoji:
   ```
-  c:/>pip install emoji
+  c:/> python -m pip install emoji
   ```
  ### Linux
  Instale o PIP do python em sua distro:
   Ubuntu | Fedora
   ---|---
-  `~$ sudo apt install pip`| `~$ sudo yum install pip` 
+  `~$ sudo apt install python3-pip`| `~$ sudo yum install python3-pip` 
   
  2. Instale o pacote do PYGAME:
   ```
