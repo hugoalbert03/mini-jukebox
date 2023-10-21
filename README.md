@@ -15,11 +15,11 @@
   c:/> python -m pip install emoji
   ```
  ### Linux
- 1. Instale o PIP do python em sua distro:
+ 1. Instale o PIP do python em sua distro:;
     
-  Debian e Derivados | CentOS e Derivados | Arch Linux e Derivados |
+  |Debian e Derivados | CentOS e Derivados | Arch Linux e Derivados |
   ---|---|---
-  `~$ sudo apt install python3-pip`| `~$ sudo yum install python3-pip` | `~$ pacman -Sy python3-pip` |
+  |`~$ sudo apt install python3-pip`| `~$ sudo yum install python3-pip` | `~$ pacman -Sy python3-pip` |
   
  2. Instale o pacote do PYGAME:
   ```
