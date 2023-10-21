@@ -15,7 +15,7 @@
   c:/> python -m pip install emoji
   ```
  ### Linux
- 1. Instale o PIP do python em sua distro:;
+ 1. Instale o PIP do python em sua distro:
     
   |Debian e Derivados | CentOS e Derivados | Arch Linux e Derivados |
   ---|---|---
