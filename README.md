@@ -16,7 +16,7 @@
   ```
  ### Linux
  Instale o PIP do python em sua distro:
-  Ubuntu | Fedora
+  Debian e Derivados | CentOS e Derivados
   ---|---
   `~$ sudo apt install python3-pip`| `~$ sudo yum install python3-pip` 
   
