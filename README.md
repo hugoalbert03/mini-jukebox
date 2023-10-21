@@ -16,6 +16,7 @@
   ```
  ### Linux
  1. Instale o PIP do python em sua distro:
+    
   Debian e Derivados | CentOS e Derivados | Arch Linux e Derivados |
   ---|---|---
   `~$ sudo apt install python3-pip`| `~$ sudo yum install python3-pip` | `~$ pacman -Sy python3-pip` |
